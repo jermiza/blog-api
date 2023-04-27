@@ -1,0 +1,13 @@
+{
+    "Incorrect Data" : "Incorrect Data",
+    "Successful Login": "Successful Login",
+    "Successful LogOut": "Successful Logout",
+
+    "Category Created": "Category Created",
+    "Category Updated": "Category Updated",
+    "Category Deleted": "Category Deleted",
+
+    "Post Created": "Post Created",
+    "Post Updated": "Post Updated",
+    "Post Deleted": "Post Deleted"
+}
